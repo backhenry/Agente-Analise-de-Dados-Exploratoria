@@ -1,6 +1,3 @@
-# Agente-Fraude
-Agente inteligente de análise exploratória de dados com interface de chat. Especializado em dados financeiros, detecção de fraude, visualizações interativas e insights automáticos. Built with LangChain, Streamlit &amp; OpenAI.
-
 # 🤖 Agente EDA - Análise Exploratória de Dados com IA
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://agente-fraude.streamlit.app)
