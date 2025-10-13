@@ -321,8 +321,6 @@ Dúvidas ou sugestões? Entre em contato:
 - **LinkedIn**: [rick-b-martins](https://www.linkedin.com/in/rick-b-martins/)
 - **GitHub**: [@backhenry](https://github.com/backhenry)
 
----
-
 ⭐ Se este projeto foi útil, considere dar uma estrela no GitHub!
 
 **Desenvolvido com ❤️ usando Python e IA**
