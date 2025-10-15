@@ -8,7 +8,7 @@ O objetivo é permitir que qualquer pessoa, independentemente do seu conheciment
 
 ###  Demo Rápida
 
-![Demo do Agente EDA em Ação](Exemplo)
+![Demo do Agente EDA em Ação](https://github.com/backhenry/Agente-Analise-de-Dados-Exploratoria/blob/main/assets/Gravando 2025-10-15 010220.gif)
 
 ---
 
