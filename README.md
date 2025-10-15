@@ -8,8 +8,6 @@ O objetivo é permitir que qualquer pessoa, independentemente do seu conheciment
 
 ###  Demo Rápida
 
-_**Recomendação:** Grave um GIF rápido mostrando o upload de um arquivo e fazendo 1-2 perguntas para o agente e substitua o link abaixo._
-
 ![Demo do Agente EDA em Ação](https://github.com/backhenry/Agente-Analise-de-Dados-Exploratoria/blob/main/assets/demo.gif)
 
 ---
